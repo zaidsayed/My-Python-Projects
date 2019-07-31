@@ -1,0 +1,4 @@
+Go in the directory where you need virtual environment
+Type python -m venv virtual
+then type virtual\Scripts\pip install flask
+then type virtual\Scripts\python Website\script.py

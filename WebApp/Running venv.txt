@@ -1,0 +1,12 @@
+cd Desktop
+cd Web App
+python -m venv virtual
+virtual\Scripts\activate
+python app.py
+
+python
+from app import db
+
+username: postgres
+password: postgres123
+port: 5432

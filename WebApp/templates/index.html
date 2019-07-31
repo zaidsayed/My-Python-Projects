@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <title> Data Collector App</title>
+  <head>
+    <link href="../static/main.css" rel="stylesheet">
+  </head>
+    <body>
+      <div class="container">
+        <h1>FEEDBACK</h1>
+        <h3>Please fill the entries to give your review out of 5</h3>
+          <form action = "{{url_for('success')}}" method="POST">
+            <input title="Your email will be safe with us" placeholder="Enter your email address" type = "email" name ="email_name" required> <br>
+            <input title="Your email will be safe with us" placeholder="Enter your review out of 5" type = "number" min="0" max="5" name ="review" required> <br>
+              <button type="submit"> Submit </button>
+
+
+
+      </div>
+     </body>
+  </html>
