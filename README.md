@@ -2,22 +2,22 @@ These are 10 projects that I have built using python to get better at it.
 
 The 10 Python applications are:
 
-A program that returns English-word definitions
+1. A program that returns English-word definitions
 
-A program that blocks access to distracting websites 
+2. A program that blocks access to distracting websites 
 
-A web map visualizing volcanoes and population data
+3. A web map visualizing volcanoes and population data
 
-A portfolio website
+4. A portfolio website
 
-A desktop-graphical program with a database backend
+5. A desktop-graphical program with a database backend
 
-A webcam motion detector
+6. A webcam motion detector
 
-A web scraper of real estate data
+7. A web scraper of real estate data
 
-An interactive web graph
+8. An interactive web graph
 
-A database web application
+9. A database web application
 
-A web service that converts addresses to geographic coordinates
+10. A web service that converts addresses to geographic coordinates
